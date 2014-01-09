@@ -1,5 +1,5 @@
 {
-    "name": "mixpanel",
+    "name": "mixpanel-data",
     "version": "0.2.1",
     "description": "Access the Mixpanel Data API from node.js",
     "author": {
@@ -16,11 +16,15 @@
         {
             "name": "Bob Showalter",
             "email": "showaltb@gmail.com"
-        }
+        },
+		{
+			"name": "Sean McGary",
+			"email": "sean@seanmcgary.com"
+		}
     ],
     "repository": {
         "type": "git",
-        "url": "http://github.com/mixpanel/mixpanel-node.git"
+        "url": "http://github.com/seanmcgary/mixpanel-node.git"
     },
     "dependencies": {
         "event-stream": "3.0.x"
